@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning ** Android Development(Kotlin)**  , ** Back-end Development(Java)** 
 
-- 
-
 - 📫 How to reach me **eneseksi10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
