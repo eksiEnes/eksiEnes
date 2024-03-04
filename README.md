@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enes Eksi</h1>
 <h3 align="center">A passionate Android and Back-end Developer from TURKEY</h3>
 
-- 🌱 I’m currently learning ** Android Development(Kotlin) **  , ** Back-end Development(Java) ** 
+- 🌱 I’m currently learning **Android Development(Kotlin)**  , **Back-end Development(Java)** 
 
-- 📫 How to reach me ** eneseksi10@gmail.com **
+- 📫 How to reach me **eneseksi10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
